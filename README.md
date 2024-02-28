@@ -34,18 +34,7 @@ React Navigation
 Credits
 Star Wars data provided by SWAPI GraphQL API
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-In this `README.md`:
-
-- The title briefly describes the app's purpose.
-- The "Features" section highlights the main functionalities of the app.
-- The "Screenshots" section (if applicable) can include screenshots of your app.
-- The "Installation" section provides step-by-step instructions for setting up the app locally.
-- The "Technologies Used" section lists the technologies and libraries used in the project.
-- The "Credits" section acknowledges any external data sources or APIs used in the app.
-- The "License" section specifies the project's license.
 
 Feel free to customize this `README.md` file with more details about your app, including additional sections or information as needed.
 
